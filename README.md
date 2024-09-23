@@ -1,3 +1,10 @@
+## Aula 2
+
+<ol>
+  <li><a href="POO_Aula3/ExplodindoMemoriaHeap-main/Explodiu/Heap.java">Explodindo memória Heap</a></li>
+  <li><a href="POO_Aula3/ExplodindoStack-main/novo/ExplodirStack.java">Explodindo mémoria Stack</a></li>
+</ol>
+
 ## Aula 3
 
 ### Exercicio
@@ -34,6 +41,24 @@ Crie e inicie variáveis para guardar as informações abaixo usando os tipos de
 ### Conclusão
 
 <p>Acredito que o exercicio tenha sido para verificar se conseguiamos separar Objetos com dados tão juntos</p>
+
+### Exercicio 2
+
+<ul>
+  <li><a href="POO_Aula3/AulaPOO3_Exercicio2/Objetos/Empresa.java">Empresa</a></li>
+  <li><a href="POO_Aula3/AulaPOO3_Exercicio2/Objetos/Pessoa.java">Pessoa</a></li>
+  <li><a href="POO_Aula3/AulaPOO3_Exercicio2/Objetos/Profissao.java">Profissao</a></li>
+  <li><a href="POO_Aula3/AulaPOO3_Exercicio2/Objetos/Teste.java">Teste</a></li>
+</ul>
+
+### Exercicio 3
+
+<ul>
+  <li><a href="POO_Aula3/AulaPoo3/HelloWord.java">Hello Word</a></li>
+  <li><a href="POO_Aula3/AulaPoo3/Pessoa.java">Pessoa</a></li>
+  <li><a href="POO_Aula3/AulaPoo3/TestePessoa.java">Teste Pessoa</a></li>
+  <li><a href="POO_Aula3/AulaPoo3/Teste.java">Teste</a></li>
+</ul>
 
 ## Aula 4
 
