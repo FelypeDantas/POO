@@ -4,7 +4,7 @@ public class Principe extends Nobre implements Cavaleiro {
 
     @Override
     public void duelar() {
-        // Comportamento de duelar
+        System.out.println("Sacar armas")
     }
 }
 
